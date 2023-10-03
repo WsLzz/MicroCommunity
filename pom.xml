@@ -70,7 +70,7 @@
         <axis.version>1.4</axis.version>
         <httpclient.verion>3.1</httpclient.verion>
         <spring.version>5.0.8.RELEASE</spring.version>
-        <zookeeper.version>3.4.14</zookeeper.version>
+        <zookeeper.version>3.5.10</zookeeper.version>
         <swagger.version>2.5.0</swagger.version>
         <pinyin4j.version>2.5.0</pinyin4j.version>
     </properties>
