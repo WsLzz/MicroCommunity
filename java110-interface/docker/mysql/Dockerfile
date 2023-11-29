@@ -2,7 +2,7 @@
 # VERSION 0.0.1
 # Author: jack wu
 
-FROM mysql:5.6
+FROM mysql:5.7.44
 
 #作者
 MAINTAINER jackWu <928255095@qq.com>
