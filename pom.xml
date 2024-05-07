@@ -458,7 +458,7 @@
             <dependency>
                 <groupId>com.aliyun</groupId>
                 <artifactId>aliyun-java-sdk-ecs</artifactId>
-                <version>4.17.6</version>
+                <version>4.24.66</version>
             </dependency>
 
             <!--flowable工作流依赖
