@@ -49,7 +49,7 @@
         <dubbo.version>2.5.4-SNAPSHOT</dubbo.version>
         <logback.vaersion>1.2.3</logback.vaersion>
 
-        <apache.common.lang3.version>3.4</apache.common.lang3.version>
+        <apache.common.lang3.version>3.18.0</apache.common.lang3.version>
         <mybatis.version>3.4.1</mybatis.version>
         <log4j.version>2.13.2</log4j.version>
         <tomcat.servlet.version>6.0.37</tomcat.servlet.version>
@@ -298,7 +298,7 @@
             <dependency>
                 <groupId>commons-validator</groupId>
                 <artifactId>commons-validator</artifactId>
-                <version>1.3.1</version>
+                <version>1.10.0</version>
             </dependency>
 
             <dependency>
